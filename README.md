@@ -1,2 +1,2 @@
 ## QRCODE BANNER!! 
-Created a alanding page for KISU International, this page is used as the destination for their QRCODE
+Created a landing page for KISU International School, this page is used as the destination for their QRCODE
